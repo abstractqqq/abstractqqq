@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 
+
+I am an industry data scientist who happens to be an avid hiker and Elden Ring enjoyer. During my free time, you can find me either coding or drinking coffee or scaling mountains 🤔 for real :) In the summer, I tend to say home more and play video games.
+
+- 🔭 I’m currently working on [Polars DS](https://github.com/abstractqqq/polars_ds_extension), a Python package that aims to modernize traditional Machine Learning with the help of [Polars](https://github.com/pola-rs/polars)
+- 👯 If you want a Rust-based dynamic (dimension is not known at compile-time) Kd-tree, see [here](https://github.com/abstractqqq/arkadia). I want to package it one day and I might need some help with that. But first I want to expand it by adding some approximate vector search algorithms.
+- 🌱 I’m currently learning **Rust**, world history, philosophy, and enough math for me to implement various ML algorithms.
 
 <!--
 **abstractqqq/abstractqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
